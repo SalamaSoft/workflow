@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.salama.workflow.core.config.WorkFlowEngineContext>
+  <ApplicationScan></ApplicationScan>
+  <DataScan></DataScan>
+  <PersistenceSetting>
+    <ConfigLocation></ConfigLocation>
+    <PersistenceService>
+      <ClassName></ClassName>
+    </PersistenceService>
+  </PersistenceSetting>
+</com.salama.workflow.core.config.WorkFlowEngineContext>

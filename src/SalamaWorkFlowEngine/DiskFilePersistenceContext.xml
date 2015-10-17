@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.salama.workflow.engine.persistence.disk.DiskFilePersistenceContext>
+  <BaseDir></BaseDir>
+</com.salama.workflow.engine.persistence.disk.DiskFilePersistenceContext>
