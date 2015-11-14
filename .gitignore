@@ -4,6 +4,8 @@
 RemoteSystemsTempFiles/
 .DS_Store/
 bin/
+tmp/
+*.command
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
